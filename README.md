@@ -9,6 +9,18 @@ In this repository, you can find a simple Python application and a Terraform con
 * [Helm 3.15+](https://helm.sh/docs/intro/install/)
 * [Terraform 1.9+](https://developer.hashicorp.com/terraform/install)
 
+## Preview
+
+![Watch the video](docs/everything.webm)
+
+![Dice App](docs/dice-app.png)
+
+![Prometheus](docs/prometheus.png)
+
+![Grafana](docs/grafana.png)
+
+![Dashboard](docs/dashboard.png)
+
 ## Deployment
 
 1. Go to the folder with Terraform configuration
@@ -28,6 +40,8 @@ In this repository, you can find a simple Python application and a Terraform con
     terraform apply -auto-approve -target kind_cluster.this && \
     terraform apply -auto-approve
     ```
+
+    > **_NOTE:_** Try to run the command above one more time if any errors appear
 
 ## Check
 
