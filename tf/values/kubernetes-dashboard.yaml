@@ -1,0 +1,6 @@
+# https://github.com/kubernetes/dashboard/blob/master/charts/kubernetes-dashboard/values.yaml
+
+kong:
+  proxy:
+    http:
+      enabled: true
