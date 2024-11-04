@@ -11,9 +11,9 @@ In this repository, you can find a simple Python application and a Terraform con
 
 ## Preview
 
-1. Watch the video
+1. Check the video
 
-    ![Watch the video](https://raw.githubusercontent.com/mikalai-hryb/dice-app/main/docs/everything.webm)
+    ![Video](https://github.com/mikalai-hryb/dice-task/raw/refs/heads/main/docs/everything.webm)
 
 2. Dice App
 
