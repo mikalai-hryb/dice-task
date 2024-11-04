@@ -11,15 +11,25 @@ In this repository, you can find a simple Python application and a Terraform con
 
 ## Preview
 
-![Watch the video](docs/everything.webm)
+1. Watch the video
 
-![Dice App](docs/dice-app.png)
+    ![Watch the video](https://raw.githubusercontent.com/mikalai-hryb/dice-app/main/docs/everything.webm)
 
-![Prometheus](docs/prometheus.png)
+2. Dice App
 
-![Grafana](docs/grafana.png)
+    ![Dice App](docs/dice-app.png)
 
-![Dashboard](docs/dashboard.png)
+3. Prometheus
+
+    ![Prometheus](docs/prometheus.png)
+
+4. Grafana
+
+    ![Grafana](docs/grafana.png)
+
+5. Dashboard
+
+    ![Dashboard](docs/dashboard.png)
 
 ## Deployment
 
