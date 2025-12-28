@@ -79,6 +79,18 @@ resource "kubernetes_ingress_v1" "this" {
           }
         }
 
+        path {
+          path      = "/argocd(/|$)(.*)"
+          backend {
+            service {
+              name = kubernetes_service_v1.argocd_server.metadata[0].name
+              port {
+                number = 80
+              }
+            }
+          }
+        }
+
       }
     }
   }
